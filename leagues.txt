@@ -2,6 +2,7 @@ and-1, Andorra 1
 and-2, Andorra 2
 cam-1, Cameroon 1
 fij-1, Fiji 1
-nca-1, New Caledonia 1
-nca-2, New Caledonia 2
+nca-1, Nicaragua 1
+nca-2, Nicaragua 2
+nca-3, Nicaragua 3
 sen-1, Senegal 1
